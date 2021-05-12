@@ -49,7 +49,7 @@ namespace Reservation.Controllers
 
                 foreach (IdentityError error in result.Errors)
                 {
-                    ModelState.AddModelError("", error.Description);
+                    ModelState.AddModelError(" ", error.Description);
                 }
             }
 

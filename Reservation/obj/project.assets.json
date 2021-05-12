@@ -8936,11 +8936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\Reservation\\Reservation.csproj",
+      "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\Nouveau dossier\\Reservation\\Reservation\\Reservation.csproj",
       "projectName": "Reservation",
-      "projectPath": "C:\\Users\\Youcode\\Desktop\\Reservation\\Reservation.csproj",
+      "projectPath": "C:\\Users\\Youcode\\Desktop\\Nouveau dossier\\Reservation\\Reservation\\Reservation.csproj",
       "packagesPath": "C:\\Users\\Youcode\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Youcode\\Desktop\\Reservation\\obj\\",
+      "outputPath": "C:\\Users\\Youcode\\Desktop\\Nouveau dossier\\Reservation\\Reservation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Youcode\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9016,7 +9016,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
